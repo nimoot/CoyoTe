@@ -22,8 +22,8 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 2304      | 창고 다각형   | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 구현     |
-| 1051      | 숫자 정사각형 | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현     |
+| 2304      | [창고 다각형](https://www.acmicpc.net/problem/2304)   | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 구현     |
+| 1051      | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현     |
 
 ---
 
